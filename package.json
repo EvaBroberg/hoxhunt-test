@@ -25,7 +25,7 @@
     "react-apollo-hooks": "^0.4.3",
     "react-hex": "^0.4.1",
     "react-hexgrid": "^1.0.3",
-    "type-graphql": "^0.17.0",
+    "type-graphql": "^0.17.6",
     "typedi": "^0.8.0",
     "typeorm": "0.2.15",
     "typeorm-typedi-extensions": "^0.2.3"

@@ -27,7 +27,7 @@
     "react-hexgrid": "^1.0.3",
     "type-graphql": "^0.17.0",
     "typedi": "^0.8.0",
-    "typeorm": "0.2.15",
+    "typeorm": "0.2.25",
     "typeorm-typedi-extensions": "^0.2.3"
   },
   "devDependencies": {
